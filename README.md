@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">✨Sobre mi✨</h2>
 
 ###
 
-<p align="left">✨ Soy constante en mi metas<br>📚 Actualmente estoy aprendiendo con cursos<br>🎯 Quiero llegar a ser un profesional del desarrollo Web/Software</p>
+<p align="left">Aunque disfruto con todos los aspectos del desarrollo web, mi mayor entusiasmo está en el back-end, donde puedo profundizar en la lógica y la estructura que sostiene una aplicación. Dicho esto, también me desenvuelvo bien en front-end, y estoy abierto a cualquier desafío que me permita seguir aprendiendo y creciendo.</p>
 
 ###
 
-<h2 align="left">Tecnologías</h2>
+<h2 align="left">Tecnologías 👩‍💻</h2>
 
 ###
 
