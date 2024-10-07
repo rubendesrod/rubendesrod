@@ -1,8 +1,10 @@
+
+![Frame 1](https://github.com/user-attachments/assets/b508d17c-2870-4939-b090-739c843c9f2b)
 <h1 align="left">Hola👋, Bienvenido!!</h1>
 
 ###
 
-<p align="left">Mi nombre es Rubén Descalzo Rodríguez soy de Valladolid, España</p>
+<p align="left">Mi nombre es Rubén Descalzo Rodríguez soy de un pueblo de Valladolid, Medina del Campo</p>
 
 ###
 
