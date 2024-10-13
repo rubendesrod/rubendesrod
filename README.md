@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Mi nombre es Rubén Descalzo Rodríguez soy de un pueblo de Valladolid, Medina del Campo</p>
+<p align="left">Mi nombre es Rubén Descalzo Rodríguez soy de Medina del Campo, Valladolid</p>
 
 ###
 
